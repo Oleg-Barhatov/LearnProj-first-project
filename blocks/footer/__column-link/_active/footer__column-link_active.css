@@ -1,0 +1,5 @@
+.footer__column-link_active:hover {
+    opacity: 0.33;
+    transition: 0.5s;
+    color: #b1d2fc;
+  }

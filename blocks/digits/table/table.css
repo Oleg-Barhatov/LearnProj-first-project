@@ -1,0 +1,10 @@
+.table {
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* Ниже убрал маркеры и обнулил падинг списка */
+    list-style-type: none;
+    padding-left: 0;
+  }

@@ -1,0 +1,4 @@
+.khan__buy-link_active:hover {
+    opacity: 0.6;
+    transition: 1s;
+  }

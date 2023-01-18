@@ -1,0 +1,10 @@
+.cards {
+    width: 920px;
+    margin: 0 auto 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 100px;
+    /* Ниже убрал маркеры и обнулил падинг списка */
+    list-style-type: none;
+    padding-left: 0;
+  }

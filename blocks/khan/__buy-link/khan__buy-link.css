@@ -1,0 +1,9 @@
+.khan__buy-link {
+    font-family: "Inter-Regular";
+    font-size: 30px;
+    line-height: 42px;
+    margin: 0;
+    text-decoration: none;
+    color: #2f80ed;
+    max-height: 60px;
+  }
